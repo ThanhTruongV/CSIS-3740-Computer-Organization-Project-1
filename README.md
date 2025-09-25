@@ -1,2 +1,6 @@
-# CSIS-3740-Computer-Organization-Project-1
-Assignment: Data Representation and ALU Basics
+# Project 1 & 16-bit ALU
+
+## Build
+Make sure you have a C++17 compiler (g++ recommended).
+
+To build CLI:
